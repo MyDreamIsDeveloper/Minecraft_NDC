@@ -1,0 +1,5 @@
+name: NDC
+main: com.windows.ndc.ndc
+version: 1.0
+commands:
+  동접:
